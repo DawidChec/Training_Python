@@ -1,6 +1,6 @@
 num = int(input("Your number: "))
 
-if num % 4 ==0:
+if num % 4 == 0:
     print("The number is multiple of 4!")
 elif num % 2 == 0:
     print("This is an even number!")
