@@ -2,7 +2,7 @@ import random
 
 while True:
     a = random.randint(1,9)
-    print(a)
+    #print(a)
 
     user_guess = int(input("Welcome in game! Guess the generated number: "))
 
